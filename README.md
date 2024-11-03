@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rishika Bhat Kuthyar
+# 👋 Hi, I'm Rishika
 
 🌐 [LinkedIn](https://www.linkedin.com/in/rishikabhat)  
 
