@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Rishika Bhat Kuthyar
 
-<!--
-**RishikaBhatKuthyar/RishikaBhatKuthyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 [LinkedIn](https://www.linkedin.com/in/rishikabhat)  
 
-Here are some ideas to get you started:
+👩‍💻 Software Developer | Master's Student at Northeastern University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+- **Programming Languages:** Java, Python, C, React, Node.js, JavaScript, HTML5, CSS3
+- **Frameworks & Libraries:** RESTful APIs, Spring Boot, Spring Cloud, Microservices, Hibernate, JUnit
+- **Databases:** MySQL, MongoDB, Oracle DB, PostgreSQL, Redis
+- **Software Tools & Platforms:** AWS, Azure Kubernetes Service, Docker, Terraform, Apache Kafka, RabbitMQ, Postman, Swagger, Visual Studios, Git, JIRA, Jupyter Notebook, NetBeans
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishikaBhatKuthyar&show_icons=true&theme=radical)
+
+
+
